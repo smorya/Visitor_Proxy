@@ -1,4 +1,4 @@
-package proxy;
+package pdlreader;
 
 import java.io.IOException;
 import java.sql.*;
